@@ -66,6 +66,7 @@ volumes:
 ```
 http://localhost:8080/player.html?url=http://localhost:8080/live/hello.m3u8
 ```
+https://ec2-13-212-246-162.ap-southeast-1.compute.amazonaws.com:8443/player.html?url=https://ec2-13-212-246-162.ap-southeast-1.compute.amazonaws.com:8443/live/hello.m3u8
 
 * Or in Safari, VLC or any HLS player, open:
 ```
